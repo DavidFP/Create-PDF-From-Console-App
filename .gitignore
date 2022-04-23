@@ -1,0 +1,6 @@
+bin/
+obj/
+*.pak
+*.manifest
+*.dll
+*.exe
